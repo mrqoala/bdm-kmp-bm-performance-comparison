@@ -212,6 +212,7 @@ def pattern_search(orgn_string, patt, loc_array):
             i += 1  # increment i
    return loc
 #Algoritmo BM
+
 # Function for full suffix match
 def compute_full_shift(shift_arr, long_suff_arr, patrn):
     # length of pattern
