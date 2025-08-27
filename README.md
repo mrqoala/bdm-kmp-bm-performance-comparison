@@ -2,6 +2,8 @@
 
 
 
+
+
 This project implements and compares the performance of three classical string-matching algorithms:
 	•	BDM (Backwards DAWG Matching)
 	•	KMP (Knuth–Morris–Pratt)
@@ -26,6 +28,9 @@ The code is designed to provide a simple and straightforward user experience.
 
 📊 Expected Output
 The program prints the execution times (in seconds) of each string-matching algorithm directly to the console.
+
+
+
 
 Descripción en Español
 
