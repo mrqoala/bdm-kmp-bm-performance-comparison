@@ -19,10 +19,9 @@ The code is designed to provide a simple and straightforward user experience.
 ⸻
 
 ▶️ Usage
-	1.	Run the file main.py.
-	2.	The program will prompt for a number between 6 and 10, which determines the length of the random pattern to be searched:
-\text{pattern length} = 2^{\text{chosen number}}
-	3.	The program will then display the execution times in seconds for each algorithm.
+	1.	Run the file main.py.<br><br>
+	2.	The program will prompt for a number between 6 and 10, which determines the n length of the random pattern to be searched:
+text_length = 2^n <br><br> 3.	The program will then display the execution times in seconds for each algorithm.
 
 ⸻
 
